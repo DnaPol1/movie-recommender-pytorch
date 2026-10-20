@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and generated data
+data/raw/*
+data/processed/*
+
+# Model artifacts
+models/*.pt
+models/*.pth
+models/*.pkl
+models/*.faiss
+models/*.index
