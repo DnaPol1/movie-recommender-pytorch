@@ -1,0 +1,3 @@
+model,Recall@10,NDCG@10,users_evaluated
+Popularity baseline,0.050132621457622796,0.07594489282324343,591
+Matrix Factorization (BPR),0.05219026300243881,0.083309131757443,591
